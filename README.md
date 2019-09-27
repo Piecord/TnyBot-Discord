@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.org/00firestar00/TnyBot-Discord.svg?branch=master)](https://travis-ci.org/00firestar00/TnyBot-Discord)
-[![codecov.io](http://codecov.io/gh/00firestar00/TnyBot-Discord/coverage.svg?branch=master)](https://codecov.io/gh/00firestar00/TnyBot-Discord?branch=master)
+[![codecov](https://codecov.io/gh/00firestar00/TnyBot-Discord/branch/master/graph/badge.svg)](https://codecov.io/gh/00firestar00/TnyBot-Discord)
 [![Discord](https://discordapp.com/api/guilds/231979788275810306/widget.png)](https://discord.gg/fqmCJJQ)
 
 ## TnyBot-Discord
@@ -53,4 +53,3 @@ then use this button. If you don't have an account, you can create one for free.
 
 This will configure everything you need to get it running. Just stick your Bot's token in the field that it asks you to.
 If you are having trouble using Heroku, please submit a ticket here, or a pull request if you need something fixed.
-
